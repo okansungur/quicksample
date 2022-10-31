@@ -1,4 +1,4 @@
-# Telepresence
+# Telepresence :  A local development environment for a remote Kubernetes cluster
 Telepresence is an open source tool that lets you run a single service locally, while connecting that service to a remote Kubernetes cluster.
 
 local debugging
@@ -34,7 +34,7 @@ telepresence connect
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/telepresence.png"><br/>
-   Telepresence Status&List
+   __Telepresence Status and List__
 </p>
 
 
@@ -42,14 +42,14 @@ telepresence connect
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/intercept.png"><br/>
-   Telepresence  Intercept
+   __Telepresence  Intercept__
 </p>
 
 
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/debug_idea.png"><br/>
-    set break-points  to idea 
+    __set break-points  to idea __
 </p>
 
 
@@ -57,7 +57,7 @@ telepresence connect
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/deploymentsandbrowser.png"><br/>
-    Comparison
+    __Comparison__
 </p>
 
 
@@ -67,13 +67,13 @@ telepresence connect
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/debug_locally.png"><br/>
-    debug locally
+    __debug locally__
 </p>
 
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/debug_microservice.png"><br/>
-    debug microservice
+    __debug remote microservice__
 </p>
 
 
