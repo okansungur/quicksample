@@ -8,5 +8,5 @@ metadata:
 spec:
   containers:
   - name: mydemo
-    image: greenredblue/mydemo:v1
+    image: okn77/mydemo:v1
     
