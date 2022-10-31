@@ -42,14 +42,14 @@ telepresence connect
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/intercept.png"><br/>
-   __Telepresence  Intercept__
+   #### Telepresence  Intercept
 </p>
 
 
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/debug_idea.png"><br/>
-    __set break-points  to idea __
+    #### set break-points  to idea
 </p>
 
 
