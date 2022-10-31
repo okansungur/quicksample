@@ -34,7 +34,7 @@ telepresence connect
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/telepresence.png"><br/>
-   __Telepresence Status and List__
+   Telepresence Status and List
 </p>
 
 
@@ -42,14 +42,14 @@ telepresence connect
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/intercept.png"><br/>
-   #### Telepresence  Intercept
+  <b>Telepresence  Intercept</b>
 </p>
 
 
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/debug_idea.png"><br/>
-    #### set break-points  to idea
+    set break-points  to idea
 </p>
 
 
@@ -57,7 +57,7 @@ telepresence connect
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/deploymentsandbrowser.png"><br/>
-    __Comparison__
+    Comparison
 </p>
 
 
@@ -67,13 +67,13 @@ telepresence connect
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/debug_locally.png"><br/>
-    __debug locally__
+    debug locally
 </p>
 
 
 <p align="center">
   <img  src="https://github.com/okansungur/quicksample/blob/main/images/debug_microservice.png"><br/>
-    __debug remote microservice__
+    debug remote microservice
 </p>
 
 
