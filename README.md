@@ -55,6 +55,13 @@ telepresence connect
 
 
 
+<p align="center">
+  <img  src="https://github.com/okansungur/quicksample/blob/main/images/deploymentsandbrowser.png"><br/>
+    Comparison
+</p>
+
+
+
 
 
 
@@ -71,8 +78,4 @@ telepresence connect
 
 
 
-<p align="center">
-  <img  src="https://github.com/okansungur/quicksample/blob/main/images/deploymentsandbrowser.png"><br/>
-    Comparison
-</p>
 
