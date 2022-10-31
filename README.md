@@ -54,10 +54,6 @@ telepresence connect
 
 
 
-<p align="center">
-  <img  src="https://github.com/okansungur/quicksample/blob/main/images/debug_idea.png"><br/>
-    set break-points  to idea 
-</p>
 
 
 
