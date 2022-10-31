@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: mydemo
+  labels:
+    app: mydemo
+    
+spec:
+  containers:
+  - name: mydemo
+    image: greenredblue/mydemo:v1
+    
