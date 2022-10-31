@@ -1,6 +1,10 @@
 # Telepresence :  A local development environment for a remote Kubernetes cluster
 Telepresence is an open source tool that lets you run a single service locally, while connecting that service to a remote Kubernetes cluster.
 
+Ngrok open your local environment to internet  ex: local jenkins  with expiration time of 2 hours
+https://ngrok.com/
+
+
 local debugging
 
 http://127.0.0.1:4986/       
